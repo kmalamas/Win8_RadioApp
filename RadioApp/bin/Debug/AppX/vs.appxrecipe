@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ELRIDEN</Machine>
+    <WindowsUser>Nasos</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8991AEE17C3C9DF279BB4C006B5DB1E79E8B2826DF0AFDD1FD035889AF7774FA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>18217e-RadioTeam.GreekE-radios_1.0.0.11_neutral__nmbyd7edt0zz6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>18217e-RadioTeam.GreekE-radios_nmbyd7edt0zz6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>18217e-RadioTeam.GreekE-radios</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=59A1BA47-0275-4D2F-82CE-F0DF31A9A78A</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.11</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-03T13:13:31.143</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\RadioApp.exe">
+      <PackagePath>RadioApp.exe</PackagePath>
+      <Modified>2013-01-03T13:31:07.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\RadioApp.pdb">
+      <PackagePath>RadioApp.pdb</PackagePath>
+      <Modified>2013-01-03T13:31:07.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-31T13:43:31.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-19T00:51:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-19T00:48:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-31T14:09:14.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\deejay.png">
+      <PackagePath>resources\Images\deejay.png</PackagePath>
+      <Modified>2012-12-14T15:18:48.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\dromos.png">
+      <PackagePath>resources\Images\dromos.png</PackagePath>
+      <Modified>2012-12-14T15:18:48.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\loveradio.png">
+      <PackagePath>resources\Images\loveradio.png</PackagePath>
+      <Modified>2012-12-14T15:18:48.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\mythos.png">
+      <PackagePath>resources\Images\mythos.png</PackagePath>
+      <Modified>2012-12-22T15:16:28.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\rso.png">
+      <PackagePath>resources\Images\rso.png</PackagePath>
+      <Modified>2012-12-14T15:18:48.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\sfera.png">
+      <PackagePath>resources\Images\sfera.png</PackagePath>
+      <Modified>2012-12-14T15:18:48.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\deejay.png">
+      <PackagePath>resources\logo\deejay.png</PackagePath>
+      <Modified>2012-12-14T15:19:00.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\dromos.png">
+      <PackagePath>resources\logo\dromos.png</PackagePath>
+      <Modified>2012-12-14T15:19:00.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\loveradio.png">
+      <PackagePath>resources\logo\loveradio.png</PackagePath>
+      <Modified>2012-12-14T15:19:00.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\mythos.png">
+      <PackagePath>resources\logo\mythos.png</PackagePath>
+      <Modified>2012-12-22T15:18:54.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\rso.png">
+      <PackagePath>resources\logo\rso.png</PackagePath>
+      <Modified>2012-12-14T15:19:00.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\sfera.png">
+      <PackagePath>resources\logo\sfera.png</PackagePath>
+      <Modified>2012-12-14T15:19:00.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-12-14T16:44:51.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\RadioStations.xml">
+      <PackagePath>RadioStations.xml</PackagePath>
+      <Modified>2012-12-22T15:35:01.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\cosmoradio.jpg">
+      <PackagePath>resources\Images\cosmoradio.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\imagine.jpg">
+      <PackagePath>resources\Images\imagine.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\ola.jpg">
+      <PackagePath>resources\Images\ola.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\palmos.jpg">
+      <PackagePath>resources\Images\palmos.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\plus.jpg">
+      <PackagePath>resources\Images\plus.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\rainbow.jpg">
+      <PackagePath>resources\Images\rainbow.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\rock1055.jpg">
+      <PackagePath>resources\Images\rock1055.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\velvet.jpg">
+      <PackagePath>resources\Images\velvet.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\zoo.jpg">
+      <PackagePath>resources\Images\zoo.jpg</PackagePath>
+      <Modified>2012-12-14T15:18:48.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\cosmoradio.jpg">
+      <PackagePath>resources\logo\cosmoradio.jpg</PackagePath>
+      <Modified>2012-12-14T15:19:00.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\ola.jpg">
+      <PackagePath>resources\logo\ola.jpg</PackagePath>
+      <Modified>2012-12-14T15:19:00.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\palmos.jpg">
+      <PackagePath>resources\logo\palmos.jpg</PackagePath>
+      <Modified>2012-12-14T15:19:00.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\plus.jpg">
+      <PackagePath>resources\logo\plus.jpg</PackagePath>
+      <Modified>2012-12-14T15:19:00.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\rainbow.jpg">
+      <PackagePath>resources\logo\rainbow.jpg</PackagePath>
+      <Modified>2012-12-14T15:19:00.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\rock1055.jpg">
+      <PackagePath>resources\logo\rock1055.jpg</PackagePath>
+      <Modified>2012-12-14T15:19:00.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\velvet.jpg">
+      <PackagePath>resources\logo\velvet.jpg</PackagePath>
+      <Modified>2012-12-14T15:19:00.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\music.jpeg">
+      <PackagePath>resources\Images\music.jpeg</PackagePath>
+      <Modified>2012-12-14T16:12:01.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\imagine.bmp">
+      <PackagePath>resources\logo\imagine.bmp</PackagePath>
+      <Modified>2012-12-14T15:19:00.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\zoo.bmp">
+      <PackagePath>resources\logo\zoo.bmp</PackagePath>
+      <Modified>2012-12-14T15:19:00.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-18T20:10:37.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-12-13T22:07:13.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-12-31T13:40:35.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-03T13:13:30.713</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

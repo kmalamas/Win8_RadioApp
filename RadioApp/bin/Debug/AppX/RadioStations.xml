@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<radio>
+<!-- # -->
+<Station>
+		<name>Plus Radio</name>
+		<urlsource>http://shout.plusradio.gr:8120/</urlsource>
+		<image>plus.jpg</image>
+		<fm>102.6</fm>
+		<web>http://www.plusradio.gr</web>
+		<logo>plus.jpg</logo>
+</Station>
+
+<Station>
+		<name>Zoo Radio</name>
+		<urlsource>http://stream.greekradios.gr:9060/</urlsource>
+		<image>zoo.jpg</image>
+		<fm>90.8</fm>
+		<web>http://www.zooradio.gr</web>
+		<logo>zoo.bmp</logo>
+</Station>
+
+<Station>
+		<name>Ola FM</name>
+		<urlsource>http://live.isolservers.com:8300/</urlsource>
+		<image>ola.jpg</image>
+		<fm>91.4</fm>
+		<web>http://www.olafm.gr</web>
+		<logo>ola.jpg</logo>
+	</Station>
+	
+	<Station>
+		<name>Imagine</name>
+		<urlsource>http://imagine.1stepstream.com:8000/live</urlsource>
+		<image>imagine.jpg</image>
+		<fm>89.7</fm>
+		<web>http://www.imagine897.gr/</web>
+		<logo>imagine.bmp</logo>
+	</Station>
+
+	<Station>
+		<name>RSO</name>
+		<urlsource>http://rso.isolservers.com:8200/</urlsource>
+		<image>rso.png</image>
+		<fm>91.7</fm>
+		<web>http://www.rso.gr/</web>
+		<logo>rso.png</logo>
+	</Station>
+	
+	<Station>
+		<name>Rock 105.5</name>
+		<urlsource>http://radio.onweb.gr:8078</urlsource>
+		<image>rock1055.jpg</image>
+		<fm>105.5</fm>
+		<web>http://www.1055rock.gr/</web>
+		<logo>rock1055.jpg</logo>
+	</Station>
+	
+	<Station>
+		<name>Rainbow</name>
+		<urlsource>http://stream.greekradios.gr:4000</urlsource>
+		<image>rainbow.jpg</image>
+		<fm>89.0</fm>
+		<web>http://www.89rainbow.gr/</web>
+		<logo>rainbow.jpg</logo>
+	</Station>
+	
+	<Station>
+		<name>Velvet</name>
+		<urlsource>http://188.138.121.94:8000</urlsource>
+		<image>velvet.jpg</image>
+		<fm>96.8</fm>.
+		<web>http://www.velvet968.gr/</web>
+		<logo>velvet.jpg</logo>
+	</Station>
+	
+	<Station>
+		<name>Κοσμοράδιο</name>
+		<urlsource>http://67.205.67.183/cosmoradio</urlsource>
+		<image>cosmoradio.jpg</image>
+		<fm>95,1</fm>
+		<web>http://www.cosmoradio.gr/</web>
+		<logo>cosmoradio.jpg</logo>
+	</Station>
+
+<Station>
+		<name>Palmos</name>
+		<urlsource>mms://a1202.l7083147201.c70831.g.lm.akamaistream.net/D/1202/70831/v0001/reflector:47201</urlsource>
+		<image>palmos.jpg</image>
+		<fm>96,5</fm>
+		<web>http://www.palmos965.gr/</web>
+		<logo>palmos.jpg</logo>
+	</Station>
+
+<Station>
+		<name>Athens Dee Jay</name>
+		<urlsource>http://91.132.6.21:8001</urlsource>
+		<image>deejay.png</image>
+		<fm>95,2</fm>
+		<web>http://www.athensdeejay.gr/</web>
+		<logo>deejay.png</logo>
+</Station>
+
+<Station>
+		<name>Sfera</name>
+		<urlsource>http://sfera.live24.gr/sfera4132</urlsource>
+		<image>sfera.png</image>
+		<fm>102.2</fm>
+		<web>http://www.sfera.gr/v2/</web>
+		<logo>sfera.png</logo>
+</Station>
+
+<Station>
+		<name>Δρόμος FM</name>
+		<urlsource>http://dromos898.live24.gr/dromos898</urlsource>
+		<image>dromos.png</image>
+		<fm>89.8</fm>
+		<web>http://www.dromosfm.gr/</web>
+		<logo>dromos.png</logo>
+</Station>
+
+<Station>
+		<name>Love Radio</name>
+		<urlsource>http://loveradio.live24.gr/loveradio-1000</urlsource>
+		<image>loveradio.png</image>
+		<fm>97.5</fm>
+		<web>http://www.loveradio.gr/</web>
+		<logo>loveradio.png</logo>
+</Station>
+
+  <Station>
+    <name>Μύθος FM</name>
+    <urlsource>http://69.175.94.98:8094/</urlsource>
+    <image>mythos.png</image>
+    <fm>93,4</fm>
+    <web>https://www.facebook.com/pages/mythos-fm-934/101006973274917</web>
+    <logo>mythos.png</logo>
+  </Station>
+
+
+</radio>

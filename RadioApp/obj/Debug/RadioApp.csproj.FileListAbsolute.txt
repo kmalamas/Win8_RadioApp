@@ -1,0 +1,54 @@
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\bin\Debug\RadioApp.exe
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\bin\Debug\RadioApp.pdb
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\bin\Debug\resources.pri
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\bin\Debug\AppxManifest.xml
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\bin\Debug\RadioApp.build.appxrecipe
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\App.g.i.cs
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\App.g.cs
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\Common\StandardStyles.g.cs
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\MainPage.g.i.cs
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\MainPage.g.cs
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\XamlTypeInfo.g.cs
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\App.xaml
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\Common\StandardStyles.xaml
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\MainPage.xaml
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\RadioApp.exe
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\RadioApp.pdb
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\priconfig.xml
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\layout.resfiles
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\resources.resfiles
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\pri.resfiles
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\LanguageQualifiers.txt
+c:\users\kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Kyriakos\documents\visual studio 2012\Projects\RadioApp\RadioApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\RadioApp.exe
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\RadioApp.pdb
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\resources.pri
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\AppxManifest.xml
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\Debug\RadioApp.build.appxrecipe
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\App.g.i.cs
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\App.g.cs
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\MainPage.g.cs
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\App.xaml
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\MainPage.xaml
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\RadioApp.exe
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\RadioApp.pdb
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\priconfig.xml
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\layout.resfiles
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\resources.resfiles
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\pri.resfiles
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\LanguageQualifiers.txt
+C:\Users\Nasos\Desktop\RadioApp\RadioApp\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ELRIDEN</Machine>
+    <WindowsUser>Nasos</WindowsUser>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\x64\Release\RadioApp.exe">
+      <PackagePath>RadioApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\x64\Release\RadioApp.pdb">
+      <PackagePath>RadioApp.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\deejay.png">
+      <PackagePath>resources\Images\deejay.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\dromos.png">
+      <PackagePath>resources\Images\dromos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\loveradio.png">
+      <PackagePath>resources\Images\loveradio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\mythos.png">
+      <PackagePath>resources\Images\mythos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\rso.png">
+      <PackagePath>resources\Images\rso.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\sfera.png">
+      <PackagePath>resources\Images\sfera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\deejay.png">
+      <PackagePath>resources\logo\deejay.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\dromos.png">
+      <PackagePath>resources\logo\dromos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\loveradio.png">
+      <PackagePath>resources\logo\loveradio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\mythos.png">
+      <PackagePath>resources\logo\mythos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\rso.png">
+      <PackagePath>resources\logo\rso.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\sfera.png">
+      <PackagePath>resources\logo\sfera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\RadioStations.xml">
+      <PackagePath>RadioStations.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\cosmoradio.jpg">
+      <PackagePath>resources\Images\cosmoradio.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\imagine.jpg">
+      <PackagePath>resources\Images\imagine.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\ola.jpg">
+      <PackagePath>resources\Images\ola.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\palmos.jpg">
+      <PackagePath>resources\Images\palmos.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\plus.jpg">
+      <PackagePath>resources\Images\plus.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\rainbow.jpg">
+      <PackagePath>resources\Images\rainbow.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\rock1055.jpg">
+      <PackagePath>resources\Images\rock1055.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\velvet.jpg">
+      <PackagePath>resources\Images\velvet.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\zoo.jpg">
+      <PackagePath>resources\Images\zoo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\cosmoradio.jpg">
+      <PackagePath>resources\logo\cosmoradio.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\ola.jpg">
+      <PackagePath>resources\logo\ola.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\palmos.jpg">
+      <PackagePath>resources\logo\palmos.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\plus.jpg">
+      <PackagePath>resources\logo\plus.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\rainbow.jpg">
+      <PackagePath>resources\logo\rainbow.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\rock1055.jpg">
+      <PackagePath>resources\logo\rock1055.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\velvet.jpg">
+      <PackagePath>resources\logo\velvet.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\Images\music.jpeg">
+      <PackagePath>resources\Images\music.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\imagine.bmp">
+      <PackagePath>resources\logo\imagine.bmp</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\resources\logo\zoo.bmp">
+      <PackagePath>resources\logo\zoo.bmp</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\x64\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\x64\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\x64\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nasos\Desktop\RadioApp\RadioApp\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
